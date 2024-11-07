@@ -2,19 +2,19 @@
 
 | Terms  | String Methods | Array Methods | Math Object | Higher Order Functions |
 | -----  | -------------- | ------------- | ----------- | -------|
-|[Spread Operator ` ... `](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#spread)                                    |[trim()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#trim)                   |[push()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#push-add-to-end)         |[Math.random()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#mathrandom)     |[for(of) vs forEach()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#for-of-vs-foreach)                    |
-|[` this ` keyword ](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#this-keyword)                                    |[toLowerCase()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#tolowercase)     |[pop()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#pop-delete-from-end)      |[Math.max()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#mathmax)           |[setTimeout()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#settimeout)                                   |
-|[Destructuring Array](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#destructuring-array)                           |[toUpperCase()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#touppercase)     |[unshift()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#unshift-add-to-front) |[Math.min()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#mathmin)           |[setInterval() & clearInterval()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#settnterval--clearinterval)|
-|[Destructuring Object](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#destructuring-object)                         |[indexOf()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#indexof)             |[shift](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#shift-delete-from-front)  |[Math.abs()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#mathabs)           |[map() vs filter()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#map-vs-filter)                           |
-|[length](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#length)                                                     |[slice()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#slice)                 |[indexOf()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#indexof-1)            |[Math.pow()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#mathpow)           |[every() vs some()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#every-vs-some)                           |
-|[try, catch & throw](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#try--catch--throw)                              |[replace()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#replace)             |[include()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#includes)             |[Math.sqrt()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#mathsqrt)         |[reduce()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#reduce)                                           |
-|[Arrow func vs Regular func](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#arrow-function----vs-regular-function)  |[repeat()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#repeat)               |[concat()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#concat)                |[Math.cbrt()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#mathcbrt)         |[]()|
-|[promise()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#promise)                                                 |[toString()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#tostring)           |[reverse()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#reverse)              |[Math.floor()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#mathfloor)       |[]()|
-|[then() & catch()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#then--catch)                                      |                                                                                                        |[slice()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#slice-1)                |[Math.celi()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#mathceli)         |[]()|
-|[promise chaining](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#promise-chaining)                                 |                                                                                                        |[splice()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#splice)                |[Math.PI](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#mathpi)               |[]()|
-|[Promise result & error](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#promise-result--error)                      |                                                                                                        |[sort()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#sort)                    |[Math.log2()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#mathlog2)         |[]()|
-|[Async & Await](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#async--await)                                        |                                                                                                        |                                                                                                         |[Math.LOG2E](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#mathlog2e)         |[]()|
-|[]()                                                                                                                                        |                                                                                                        |                                                                                                         |[Math.LOG10E](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/javaScript.md#mathlog10e)       |[]()|
+|[Spread Operator ` ... `](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#spread)                                    |[trim()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#trim)                   |[push()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#push-add-to-end)         |[Math.random()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#mathrandom)     |[for(of) vs forEach()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#for-of-vs-foreach)                    |
+|[` this ` keyword ](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#this-keyword)                                    |[toLowerCase()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#tolowercase)     |[pop()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#pop-delete-from-end)      |[Math.max()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#mathmax)           |[setTimeout()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#settimeout)                                   |
+|[Destructuring Array](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#destructuring-array)                           |[toUpperCase()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#touppercase)     |[unshift()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#unshift-add-to-front) |[Math.min()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#mathmin)           |[setInterval() & clearInterval()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#settnterval--clearinterval)|
+|[Destructuring Object](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#destructuring-object)                         |[indexOf()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#indexof)             |[shift](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#shift-delete-from-front)  |[Math.abs()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#mathabs)           |[map() vs filter()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#map-vs-filter)                           |
+|[length](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#length)                                                     |[slice()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#slice)                 |[indexOf()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#indexof-1)            |[Math.pow()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#mathpow)           |[every() vs some()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#every-vs-some)                           |
+|[try, catch & throw](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#try--catch--throw)                              |[replace()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#replace)             |[include()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#includes)             |[Math.sqrt()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#mathsqrt)         |[reduce()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#reduce)                                           |
+|[Arrow func vs Regular func](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#arrow-function----vs-regular-function)  |[repeat()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#repeat)               |[concat()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#concat)                |[Math.cbrt()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#mathcbrt)         |[]()|
+|[promise()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#promise)                                                 |[toString()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#tostring)           |[reverse()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#reverse)              |[Math.floor()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#mathfloor)       |[]()|
+|[then() & catch()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#then--catch)                                      |                                                                                                        |[slice()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#slice-1)                |[Math.celi()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#mathceli)         |[]()|
+|[promise chaining](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#promise-chaining)                                 |                                                                                                        |[splice()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#splice)                |[Math.PI](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#mathpi)               |[]()|
+|[Promise result & error](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#promise-result--error)                      |                                                                                                        |[sort()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#sort)                    |[Math.log2()](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#mathlog2)         |[]()|
+|[Async & Await](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#async--await)                                        |                                                                                                        |                                                                                                         |[Math.LOG2E](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#mathlog2e)         |[]()|
+|[]()                                                                                                                                        |                                                                                                        |                                                                                                         |[Math.LOG10E](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/javaScript.md#mathlog10e)       |[]()|
 
 [DOM Mainpulation](/domManipulation.md)\
 [node.js](./nodejs.md)\
@@ -29,34 +29,34 @@
 Spread Operator ` ... ` 
 ```js
 const arr1 = [1, 2, 3];
-const arr2 = [...arr1, 4, 5, 6];    // Spreading an Array
+const arr2 = [...arr1, 4, 5, 6];   // Spreading an Array
 console.log(arr2); 
 // Output => [1, 2, 3, 4, 5, 6]
 
 const obj1 = { a: 1, b: 2 };
-const obj2 = { ...obj1, c: 3 }; // Spreading an Object
+const obj2 = { ...obj1, c: 3 };// Spreading an Object
 console.log(obj2);
 // Output => { a: 1, b: 2, c: 3 }
 
 const numbers = [1, 2, 3];
 const sum = (a, b, c) => a + b + c;
-console.log(sum(...numbers)); // Function Arguments
+console.log(sum(...numbers));// Function Arguments
 // Output => 6 
 
 const original = [1, 2, 3];
-const copy = [...original]; // Copying Arrays
+const copy = [...original];// Copying Arrays
 console.log(copy);
 // Output => [1, 2, 3]
 
 const array1 = [1, 2, 3];
 const array2 = [4, 5, 6];
-const combined = [...array1, ...array2]; // Concatenating Arrays
+const combined = [...array1, ...array2];// Concatenating Arrays
 console.log(combined);
 // Output => [1, 2, 3, 4, 5, 6]
 
 const obj1 = { a: 1, b: 2 };
 const obj2 = { b: 3, c: 4 };
-const combined = { ...obj1, ...obj2 }; // Combining Objects
+const combined = { ...obj1, ...obj2 };// Combining Objects
 console.log(combined); 
 // Output => { a: 1, b: 3, c: 4 }
 ```
@@ -77,19 +77,19 @@ console.log(`I have ${amount} rupees.`);
 > ` this ` with <u>Arrow Function</u> ` scope --> parent's scope `
 
 ```js
-console.log(this); // In a browser: Window, In Node.js: global
+console.log(this);// In a browser: Window, In Node.js: global
 
 const obj = {
   value: 42,
   getValue: function() {
-    return this.value; // scope --> obj
+    return this.value;// scope --> obj
   },
   getValue2 : () => {
-    return this.value; // parent`s scope --> Window
+    return this.value;// parent`s scope --> Window
   }
 };
-console.log(obj.getValue()); // 42
-console.log(obj.getValue2()); // undefined
+console.log(obj.getValue());// 42
+console.log(obj.getValue2());// undefined
 ```
 
 > ### Destructuring Array
@@ -100,7 +100,7 @@ let names = ["Ohm", "Abhishek", "Asif", "jay prakash"];
 // let student3 = names[2];
 // let student4 = names[3];
 let [student1, student2, student3, student4] = names;
-let [me, ...friends] = names; // me --> ohm , friends --> ["Abhishek", "Asif", "jay prakash"] 
+let [me, ...friends] = names;// me --> ohm , friends --> ["Abhishek", "Asif", "jay prakash"] 
 ```
 
 > ### Destructuring Object
@@ -136,12 +136,12 @@ console.log(arr.length);
 > ### try , catch & throw 
 ```js
 try {
-  // Code that may throw an exception
+ // Code that may throw an exception
   throw "some random error";
 } catch (error) {
-  // Code to handle the exception
+ // Code to handle the exception
 } finally {
-  // Code that will always run, regardless of an exception (optional)
+ // Code that will always run, regardless of an exception (optional)
 }
 ```
 
@@ -162,7 +162,7 @@ const func = () => {
 // inside class
 const myClass = { 
    getName2 : () => {
-  // function body 
+ // function body 
   }
 };
 
@@ -229,14 +229,14 @@ function greet(){
     },1000)
 };
 let demo = async () => {
-    // by default it returns promise due to async keyword
+   // by default it returns promise due to async keyword
     await greet(); 
-    await greet(); // execute only after execution of one.
+    await greet();// execute only after execution of one.
     await greet(); 
 };
 
 async function greet() {
-    // returns promise
+   // returns promise
 };
 ```
 
@@ -324,13 +324,13 @@ console.log(newStr);
 ```js
 let num = 123;
 let str = num.toString();
-console.log(str); // "123"
-console.log(typeof str); // "string"
+console.log(str);// "123"
+console.log(typeof str);// "string"
 
 let arr = [1, 2, 3];
 let strArr = arr.toString();
-console.log(strArr); // "1,2,3"
-console.log(typeof strArr); // "string"
+console.log(strArr);// "1,2,3"
+console.log(typeof strArr);// "string"
 ```
 ---
 
@@ -415,7 +415,7 @@ console.log(arr);
 > ### slice()
 ```js
 let arr = [ 'red', 'blue', 'yellow', 'orange', 'green' ];
-let newArr = arr.slice( 1 , 3); // (start index, end index) end index is excluded
+let newArr = arr.slice( 1 , 3);// (start index, end index) end index is excluded
 console.log(newArr);
 // Output => [ 'blue', 'yellow' ]
 
@@ -436,23 +436,23 @@ console.log(newArr);
 ```js
 //       index :  0   1   2   3   4   5     
 let alphabets = ['a','b','c','d','e','f'];
-alphabets.splice(2,3,'x','y','z'); // (start index,delete count,insert)
+alphabets.splice(2,3,'x','y','z');// (start index,delete count,insert)
 console.log(alphabets);
 // Output => [ 'a', 'b', 'x', 'y', 'z', 'f']
 
 let alphabets = ['a','b','c','d','e','f'];
-alphabets.splice(2,3); // (start index,delete count)
+alphabets.splice(2,3);// (start index,delete count)
 console.log(alphabets);
 // Output => [ 'a', 'b','f']
 
 alphabets = ['a','b','c','d','e','f'];
-alphabets.splice(3); // (start index) delete all after index
+alphabets.splice(3);// (start index) delete all after index
 console.log(alphabets);
 // Output => [ 'a', 'b', 'c' ]
 
 
 alphabets = ['a','b','c','d','e','f'];
-alphabets.splice(1,3,'g','h','i'); // (start index,delete count,insert,...)
+alphabets.splice(1,3,'g','h','i');// (start index,delete count,insert,...)
 console.log(alphabets);
 // Output => [ 'a', 'g', 'h', 'i', 'e', 'f' ]
 ```
@@ -479,62 +479,62 @@ console.log(Math.random());
 > #### Math.max()
 ```js
 let arr = [1,2,3,34,6,56,4,3];
-console.log(Math.max(...arr)); //reutrn largest number
+console.log(Math.max(...arr));//reutrn largest number
 // Output => 56
 ```
 > #### Math.min()
 ```js
-console.log(Math.min(2,1,3,2)); // return smallest number
+console.log(Math.min(2,1,3,2));// return smallest number
 // Output => 1
 ```
 > #### Math.abs()
 ```js
-console.log(Math.abs(-5.3)); // gives +ve value
+console.log(Math.abs(-5.3));// gives +ve value
 // Output => 5.3
 ```
 > #### Math.pow()
 ```js
-console.log(Math.pow(2,3)); // power function
+console.log(Math.pow(2,3));// power function
 // Output => 8
 ```
 > #### Math.sqrt()
 ```js
-console.log(Math.sqrt(9)); // square root function
+console.log(Math.sqrt(9));// square root function
 // Output => 3
 ```
 > #### Math.cbrt()
 ```js
-console.log(Math.cbrt(27)); // cube root
+console.log(Math.cbrt(27));// cube root
 // Output => 3
 ```
 > #### Math.floor()
 ```js
-console.log(Math.floor(2.34)); // floor function
+console.log(Math.floor(2.34));// floor function
 // Output => 2
 ```
 > #### Math.celi()
 ```js
-console.log(Math.ceil(3.2)); // ceiling function
+console.log(Math.ceil(3.2));// ceiling function
 // Output => 4
 ```
 > #### Math.PI
 ```js
-console.log(Math.PI); // value of PI
+console.log(Math.PI);// value of PI
 // Output => 3.141592653589793
 ```
 > #### Math.log2()
 ```js
-console.log(Math.log2(34)); // log 2 base 2
+console.log(Math.log2(34));// log 2 base 2
 // Output => 5.087462841250339
 ```
 > #### Math.LOG2E
 ```js
-console.log(Math.LOG2E); // value of log 2 base e
+console.log(Math.LOG2E);// value of log 2 base e
 // Output => 1.4426950408889634
 ```
 > #### Math.LOG10E
 ```js
-console.log(Math.LOG10E); // value of log 10 base e
+console.log(Math.LOG10E);// value of log 10 base e
 // Output => 0.4342944819032518
 ```
 
@@ -545,12 +545,12 @@ console.log(Math.LOG10E); // value of log 10 base e
 const arr = [1, 2, 3, 4, 5, 6, 7];
 // forEach function
 arr.forEach(el => {
-    console.log(el); // print all array elements
+    console.log(el);// print all array elements
 });
 
 // for (of) function
 for (el of arr){
-    console.log(el); // print all array elements
+    console.log(el);// print all array elements
 };
 
 const arrClass = [{
@@ -568,14 +568,14 @@ const arrClass = [{
 
 // forEach function
 arrClass.forEach((el) => {
-    console.log(el.name); // print all obejcts name
-    console.log(el.roll); // print all obejcts roll
+    console.log(el.name);// print all obejcts name
+    console.log(el.roll);// print all obejcts roll
 });
 
 // for (of) function
 for (el of arrClass){
-    console.log(el.name); // print all obejcts name
-    console.log(el.roll); // print all obejcts roll
+    console.log(el.name);// print all obejcts name
+    console.log(el.roll);// print all obejcts roll
 }
 ```
 
@@ -584,7 +584,7 @@ for (el of arrClass){
 ```js
 setTimeout(() => {
     console.log('too kaise hai aap log.');
-},2000);    // execute after 2 sec
+},2000);   // execute after 2 sec
 console.log('Hello guies,');
 
 // Hello guies,
@@ -593,16 +593,16 @@ console.log('Hello guies,');
 
 > ### setTnterval() & clearInterval()
 ```js
-let id = setInterval(() => {    // continuously executing until we stoped using clearInterval(id)
+let id = setInterval(() => {   // continuously executing until we stoped using clearInterval(id)
     console.log('too kaise hai aap log.');
-},1000);    // 1sec interval
+},1000);   // 1sec interval
 console.log('Hello guies');
 // Hello guies
 // too kaise hai aap log.  [in 1 sec interval 4 times]
 
 setTimeout(() => {
-    clearInterval(id);  // terminate setInterval()
-},4000);    // execute after 4 sec
+    clearInterval(id); // terminate setInterval()
+},4000);   // execute after 4 sec
 ```
 
 > ### map() vs filter()
@@ -646,7 +646,7 @@ console.log(arr3.some((el) => (el % 3 == 0)));
 > ### reduce()
 ```js
 let num = [1, 2, 3, 4];
-let finalValue = num.reduce((res,el) => { // (accumulator,element)
+let finalValue = num.reduce((res,el) => {// (accumulator,element)
     return res + el;
 });
 console.log(finalValue);

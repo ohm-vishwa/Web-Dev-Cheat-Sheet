@@ -2,13 +2,13 @@
 
 |DOM mainpulation| DOM Events |
 |----------------| ---------- |
-|[properties](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/domManipulation.md#properties)                        |[onclick](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/domManipulation.md#onclick-mouse-event)|
-|[Element Manipulation](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/domManipulation.md#element-mainpulation)    |[addEventListener](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/domManipulation.md#addeventlistener)|
-|[Attribute Manipulation](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/domManipulation.md#attribute-manipulation)|[this with Event Listenser / Handler](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/domManipulation.md#this-with-event-listenser--handler)|
-|[style Manipulation](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/domManipulation.md#style-manipulation)        |[Keyboard Events](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/domManipulation.md#keyboard-events)|
-|[Navigation](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/domManipulation.md#navigation)                        |[Form Event](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/domManipulation.md#form-event)|
-|[Adding Element](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/domManipulation.md#adding-elements)               |[]()|
-|[Remove Element](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet /blob/main/domManipulation.md#remove-element)                |[]()|
+|[properties](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/domManipulation.md#properties)                        |[onclick](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/domManipulation.md#onclick-mouse-event)|
+|[Element Manipulation](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/domManipulation.md#element-mainpulation)    |[addEventListener](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/domManipulation.md#addeventlistener)|
+|[Attribute Manipulation](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/domManipulation.md#attribute-manipulation)|[this with Event Listenser/ Handler](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/domManipulation.md#this-with-event-listenser--handler)|
+|[style Manipulation](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/domManipulation.md#style-manipulation)        |[Keyboard Events](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/domManipulation.md#keyboard-events)|
+|[Navigation](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/domManipulation.md#navigation)                        |[Form Event](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/domManipulation.md#form-event)|
+|[Adding Element](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/domManipulation.md#adding-elements)               |[]()|
+|[Remove Element](https://github.com/ohm-vishwa/Web-Dev-Cheat-Sheet/blob/main/domManipulation.md#remove-element)                |[]()|
 
 
 [javascript](./javaScript.md)\
@@ -35,10 +35,10 @@
 > ### innerText & innerHTML
 ```js
 let home = document.querySelector('div');
-home.innerHTML = ('<h1> Heading </h1>'); // insert HTML
+home.innerHTML = ('<h1> Heading </h1>');// insert HTML
 
 let heading = document.querySelector('h1');
-heading.innerText = "Ohm vishwa"; // Change Text
+heading.innerText = "Ohm vishwa";// Change Text
 ```
 
 ## Element Mainpulation
@@ -48,12 +48,12 @@ heading.innerText = "Ohm vishwa"; // Change Text
 
 > ### View Global Object
 ```js
-console.log(this) // Window
+console.log(this)// Window
 ```
 > ### View Document Object
 ```js
 console.log(document)
-console.dir(document) // array format
+console.dir(document)// array format
 ```
 
 > ### Get Element by Tag
@@ -74,11 +74,11 @@ document.getElementsByTagName("img")
 ### Query Selector
 
 ```js
-document.querySelector('p') // select first p element
-document.querySelector('#myId') // select first element with id = "myId"
-document.querySelector('.myClass') // select first element with class = "myClass"
+document.querySelector('p')// select first p element
+document.querySelector('#myId')// select first element with id = "myId"
+document.querySelector('.myClass')// select first element with class = "myClass"
 
-document.querySelectorAll('p') // select all p elements
+document.querySelectorAll('p')// select all p elements
 ```
 
 ## Attribute Manipulation
@@ -105,7 +105,7 @@ heading.setAttribute('class', 'myClass');
 ```js
 // <h1 id = "myId" >Ohm Vishwa</h1>
 let heading = document.querySelector('h1');
-heading.style.color = "red"; // now h1 tag text are red
+heading.style.color = "red";// now h1 tag text are red
 ```
 > [!CAUTION]
 > it can mainpulate ` inline CSS ` only.
@@ -129,11 +129,11 @@ let heading = document.getElementById('myId');
     heading.classList.replace("green","blue")
     heading.classList.add("background");
     heading.classList.remove("blue",);
-    heading.classList.contains("background") // true
+    heading.classList.contains("background")// true
 
-    // toggle => if arg is present then, remove (vise vesa)
-    heading.classList.toggle("background") // flase
-    heading.classList.toggle("background") // true
+   // toggle => if arg is present then, remove (vise vesa)
+    heading.classList.toggle("background")// flase
+    heading.classList.toggle("background")// true
 ```
 > ### Navigation
 ```js
@@ -146,14 +146,14 @@ let heading = document.getElementById('myId');
         <li>Item-3</li>
     </ul> */
 let h1 = document.querySelector('h1');
-h1.parentElement // <div>...</div>
+h1.parentElement// <div>...</div>
 
 let div = document.querySelector('div');
-div.children // <h1>Heading</h1>
-div.childElementCount // 1
+div.children// <h1>Heading</h1>
+div.childElementCount// 1
 
 let ul = document.querySelector(ul);
-ul.children[0]; // Item-1
+ul.children[0];// Item-1
 ```
 
 > ### Adding Elements
@@ -162,19 +162,19 @@ let div = document.querySelector('div');
 
 let u = document.createElement('u');
 u.innerText = "underline";
-div.appendChild(u); // insert as child element at bottom
+div.appendChild(u);// insert as child element at bottom
 
 let p1 = document.createElement('p');
 p1.innerText = "bottom"
-div.append(p1); // insert at bottom
+div.append(p1);// insert at bottom
 
 let p2 = document.createElement('p');
 p2.innerText = "top";
-div.prepend(p2); // insert at top
+div.prepend(p2);// insert at top
 
 let btn = document.createElement('button');
 btn.innerText = "Button"
-div.insertAdjacentElement('beforebegin',btn); // (where,element)
+div.insertAdjacentElement('beforebegin',btn);// (where,element)
 // div.insertAdjacentElement('beforeend',btn);
 // div.insertAdjacentElement('afterbegin',btn);
 // div.insertAdjacentElement('afterend',btn);
@@ -198,7 +198,7 @@ div.remove();
 
 # DOM Events
 > [!NOTE]
-> Events are signal that something has occurred. (user input / action)
+> Events are signal that something has occurred. (user input/ action)
 
 > ### onclick ` Mouse Event `
 
@@ -216,7 +216,7 @@ button.onclick = () => {
 let btns = document.querySelectorAll('button');
 
 for (btn of btns){
-    btn.onclick = sayHello; // () not bacause we don't to execute currently.
+    btn.onclick = sayHello;// () not bacause we don't to execute currently.
 }
 ```
 > [!NOTE]
@@ -236,11 +236,11 @@ let button = document.querySelectorAll('button');
 for (btn of button){
     btn.addEventListener('click',sayHello);
     btn.addEventListener('dblclick' ,sayName);
-    // btn.onclick = sayHello; // () not bacause we don't to execute currently.
+   // btn.onclick = sayHello;// () not bacause we don't to execute currently.
 }
 ```
 
-> ### ` this ` with Event Listenser / Handler
+> ### ` this ` with Event Listenser/ Handler
 ```js
 let btn = document.querySelector('button');
 
@@ -254,8 +254,8 @@ btn.addEventListener('click', function(){
 let input = document.querySelector('input');
 
 input.addEventListener('keydown', function(e){
-    console.log(e.key) // if a pressed then,
-    console.log(e.code) // code --> KeyA
+    console.log(e.key)// if a pressed then,
+    console.log(e.code)// code --> KeyA
 })
 ```
 
@@ -264,7 +264,7 @@ input.addEventListener('keydown', function(e){
 let form = document.querySelector('form');
 
 form.addEventListener('submit',(event) => {
-    event.preventDefault(); // redirect is prevented now
+    event.preventDefault();// redirect is prevented now
     let user = this.element[0];
     let pass = this.element[1];
 });
