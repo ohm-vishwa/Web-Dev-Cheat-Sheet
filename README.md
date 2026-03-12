@@ -10,7 +10,7 @@
   - #### [Bootstrap Icons](https://icons.getbootstrap.com/)
   - #### [Google Fonts](https://fonts.google.com/)
   
-- ### [Javascript Important Terms, Methods & more](/javaScript.md)
+- ## [Javascript Important Terms, Methods & more](/javaScript.md)
 
 
 - ### [DOM Mainpulation](/domManipulation.md)
